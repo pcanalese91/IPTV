@@ -38,7 +38,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/233
 #EXTINF:-1 tvg-name="13- HBO HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490019828408-Imagen.jpg",Hbo
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
 
-#EXTINF:-1 tvg-name="14- HBO FAMILY HD" group-title="Peliculas y Series" tvg-logo="",14- Hbo Family
+#EXTINF:-1 tvg-name="14- HBO FAMILY HD" group-title="Peliculas y Series" tvg-logo="",Hbo Family
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
 
 #EXTINF:-1 tvg-name="15- PARAMOUNT HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1586896345799-Imagen.jpg",Paramount
@@ -56,92 +56,92 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/259
 #EXTINF:-1 tvg-name="19- WARNNER CHANNEL HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1542390612614-Imagen.png",Warner Channel
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/267
 
-#EXTINF:-1 tvg-name="19- DISCOVERY HD" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490041711536-Imagen.jpg",Discovery
+#EXTINF:-1 tvg-name="20- DISCOVERY HD" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490041711536-Imagen.jpg",Discovery
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/222
 
-#EXTINF:-1 tvg-name="20- HISTORY CHANNEL HD" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1645025091628-Imagen.png",History Channel
+#EXTINF:-1 tvg-name="21- HISTORY CHANNEL HD" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1645025091628-Imagen.png",History Channel
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/241
 
-#EXTINF:-1 tvg-name="21- NATGEO HD" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1532010301216-Imagen.jpg",Nat Geo
+#EXTINF:-1 tvg-name="22- NATGEO HD" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1532010301216-Imagen.jpg",Nat Geo
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/245
 
-#EXTINF:-1 tvg-name="22- ANIMAL PLANET" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1549889652615-Imagen.png",Animal Planet
+#EXTINF:-1 tvg-name="23- ANIMAL PLANET" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1549889652615-Imagen.png",Animal Planet
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/211
 
-#EXTINF:-1 tvg-name="23- LOVE NATURE" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1648742844301-Imagen.png",Love Nature
+#EXTINF:-1 tvg-name="24- LOVE NATURE" group-title="Cultura" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1648742844301-Imagen.png",Love Nature
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4189
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1592490840237-Imagen.png",(24)Comedy Central HD
+#EXTINF:-1 tvg-name="25- COMDEY CENTRAL" group-title="Entretención" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1592490840237-Imagen.png",Comedy Central
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490038047138-Imagen.jpg",(25)Las Estrellas HD
+#EXTINF:-1 tvg-name="26- LAS ESTRELLAS HD" group-title="Entretención" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490038047138-Imagen.jpg",Las Estrellas
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4319
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1549897303996-Imagen.png",TL Novelas
+#EXTINF:-1 tvg-name="27- TLNOVELAS" group-title="Entretención" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1549897303996-Imagen.png",TL Novelas
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313105
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo-logo.svg",(26)Telemundo
+#EXTINF:-1 tvg-name="28- TELEMUNDO" group-title="Entretención" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo-logo.svg",Telemundo
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3924
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490103676198-Imagen.jpg",(27)Cartoon Network HD
+#EXTINF:-1 tvg-name="29- CARTOON NETWORK HD" group-title="Infantiles" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490103676198-Imagen.jpg",Cartoon Network
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/216
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490101626384-Imagen.jpg",(28)ETC TV
+#EXTINF:-1 tvg-name="30- ETC TV" group-title="Infantiles" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490101626384-Imagen.jpg",Etc
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/202
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490102858978-Imagen.jpg",(29)NICK HD
+#EXTINF:-1 tvg-name="31- NICKELODEON HD" group-title="Infantiles" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490102858978-Imagen.jpg",Nickelodeon
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4226
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1585771306956-Imagen.png",(30)Disney HD
+#EXTINF:-1 tvg-name="32- DISNEY CHANNEL HD" group-title="Infantiles" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1585771306956-Imagen.png",Disney Channel
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/226
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490104656662-Imagen.jpg",(31)Discovery H&H HD
+#EXTINF:-1 tvg-name="33- DISCOVERY H&H HD" group-title="Hogar y Familia" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490104656662-Imagen.jpg",Discovery H&H
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/221
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1648740566317-Imagen.png",(32)El Gourmet HD
+#EXTINF:-1 tvg-name="34- EL GOURMET HD" group-title="Hogar y Familia" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1648740566317-Imagen.png",El Gourmet
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/231
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490110818646-Imagen.jpg",(33)MTV HD
+#EXTINF:-1 tvg-name="35- MTV HD" group-title="Música y Audio" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490110818646-Imagen.jpg",Mtv
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4184
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1628525984083-Imagen.png",(34)Zona Latina
+#EXTINF:-1 tvg-name="36- ZONA LATINA" group-title="Música y Audio" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1628525984083-Imagen.png",Zona Latina
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490109714367-Imagen.jpg",(35)ViaX
+#EXTINF:-1 tvg-name="37- VIAX" group-title="Música y Audio" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490109714367-Imagen.jpg",ViaX
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/51
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490019008122-Imagen.jpg",(36)ESPN HD
+#EXTINF:-1 tvg-name="38- ESPN HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490019008122-Imagen.jpg",Espn
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/230
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490019253983-Imagen.jpg",(37)ESPN 2 HD
+#EXTINF:-1 tvg-name="39- ESPN 2 HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490019253983-Imagen.jpg",Espn 2
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="",(38)ESPN 3 HD
+#EXTINF:-1 tvg-name="40- ESPN 3 HD" group-title="Deportes" tvg-logo="",Espn 3
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/228
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="",(39)ESPN 4
+#EXTINF:-1 tvg-name="41- ESPN 4" group-title="Deportes" tvg-logo="",Espn 4
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4266
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="",(40)ESPN EXTRA HD
+#EXTINF:-1 tvg-name="42- ESPN EXTRA HD" group-title="Deportes" tvg-logo="",Espn Extra
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/229
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1525358679716-Imagen.png",(41)Fox Sports 1 HD
+#EXTINF:-1 tvg-name="43- FOX SPORTS 1 HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1525358679716-Imagen.png",Fox Sports 1
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/236
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="",(42)FOX Sports 2 HD
+#EXTINF:-1 tvg-name="44- FOX SPORT 2 HD" group-title="Deportes" tvg-logo="",Fox Sports 2
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/232
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="",(43)Fox Sports 3 HD
+#EXTINF:-1 tvg-name="45- FOX SPORT 3 HD" group-title="Deportes" tvg-logo="",Fox Sports 3
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/237
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1610972217631-Imagen.png",(44)TNT SPORTS HD
+#EXTINF:-1 tvg-name="46- TNT SPORTS HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1610972217631-Imagen.png",Tnt Sports
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/262
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="",(45)RADIO CAROLINA
+#EXTINF:-1 tvg-name="47- RADIO CAROLINA" group-title="Radios" tvg-logo="",Radio Carolina
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="",(46)FM2
+#EXTINF:-1 tvg-name="48- FM2" group-title="Radios" tvg-logo="",Radio Fm2
 http://24383.live.streamtheworld.com:80/FMDOS_SC
 
-#EXTINF:-1 tvg-name="02 Canal 13" group-title="Nacionales" tvg-logo="",(47)CORAZON
+#EXTINF:-1 tvg-name="49- RADIO CORAZON" group-title="Radios" tvg-logo="",Radio Corazón
 http://26493.live.streamtheworld.com:80/CORAZON_SC
