@@ -35,10 +35,10 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/218
 #EXTINF:-1 tvg-name="12- FX HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490031776416-Imagen.jpg",Fx
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/233
 
-#EXTINF:-1 tvg-name="13- HBO HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490019828408-Imagen.jpg",Hbo
+#EXTINF:-1 tvg-name="13- HBO HD" group-title="Peliculas y Series" tvg-logo="http://imgfz.com/i/34WCopM.jpeg",Hbo
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
 
-#EXTINF:-1 tvg-name="14- HBO FAMILY HD" group-title="Peliculas y Series" tvg-logo="",Hbo Family
+#EXTINF:-1 tvg-name="14- HBO FAMILY HD" group-title="Peliculas y Series" tvg-logo="http://imgfz.com/i/IrC0mxQ.jpeg",Hbo Family
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
 
 #EXTINF:-1 tvg-name="15- PARAMOUNT HD" group-title="Peliculas y Series" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1586896345799-Imagen.jpg",Paramount
@@ -74,13 +74,13 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4189
 #EXTINF:-1 tvg-name="25- COMDEY CENTRAL" group-title="Entretención" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1592490840237-Imagen.png",Comedy Central
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
 
-#EXTINF:-1 tvg-name="26- LAS ESTRELLAS HD" group-title="Entretención" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490038047138-Imagen.jpg",Las Estrellas
+#EXTINF:-1 tvg-name="26- LAS ESTRELLAS HD" group-title="Entretención" tvg-logo="http://imgfz.com/i/oMFhawu.jpeg",Las Estrellas
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4319
 
 #EXTINF:-1 tvg-name="27- TLNOVELAS" group-title="Entretención" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1549897303996-Imagen.png",TL Novelas
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313105
 
-#EXTINF:-1 tvg-name="28- TELEMUNDO" group-title="Entretención" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo-logo.svg",Telemundo
+#EXTINF:-1 tvg-name="28- TELEMUNDO" group-title="Entretención" tvg-logo="https://yt3.googleusercontent.com/dDIM8c2aTQ4GNL4aAyb0oigTZd13kVJ54ejFFx0UvSL6tSDIRU5c19JeFKh8p4OYs0nPpVeMez4=s176-c-k-c0x00ffffff-no-rj",Telemundo
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3924
 
 #EXTINF:-1 tvg-name="29- CARTOON NETWORK HD" group-title="Infantiles" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490103676198-Imagen.jpg",Cartoon Network
@@ -116,13 +116,13 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/230
 #EXTINF:-1 tvg-name="39- ESPN 2 HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1490019253983-Imagen.jpg",Espn 2
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
 
-#EXTINF:-1 tvg-name="40- ESPN 3 HD" group-title="Deportes" tvg-logo="",Espn 3
+#EXTINF:-1 tvg-name="40- ESPN 3 HD" group-title="Deportes" tvg-logo="http://imgfz.com/i/lrkEnCX.jpeg",Espn 3
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/228
 
-#EXTINF:-1 tvg-name="41- ESPN 4" group-title="Deportes" tvg-logo="",Espn 4
+#EXTINF:-1 tvg-name="41- ESPN 4" group-title="Deportes" tvg-logo="http://imgfz.com/i/1muPgr9.jpeg",Espn 4
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4266
 
-#EXTINF:-1 tvg-name="42- ESPN EXTRA HD" group-title="Deportes" tvg-logo="",Espn Extra
+#EXTINF:-1 tvg-name="42- ESPN EXTRA HD" group-title="Deportes" tvg-logo="http://imgfz.com/i/Nu67fZ8.jpeg",Espn Extra
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/229
 
 #EXTINF:-1 tvg-name="43- FOX SPORTS 1 HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1525358679716-Imagen.png",Fox Sports 1
@@ -137,11 +137,11 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/237
 #EXTINF:-1 tvg-name="46- TNT SPORTS HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1610972217631-Imagen.png",Tnt Sports
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/262
 
-#EXTINF:-1 tvg-name="47- RADIO CAROLINA" group-title="Radios" tvg-logo="",Radio Carolina
+#EXTINF:-1 tvg-name="47- RADIO CAROLINA" group-title="Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Radio_Carolina_2020.png",Radio Carolina
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-name="48- FM2" group-title="Radios" tvg-logo="",Radio Fm2
+#EXTINF:-1 tvg-name="48- FM2" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4ucHCg8xnR.jpeg",Radio Fm2
 http://24383.live.streamtheworld.com:80/FMDOS_SC
 
-#EXTINF:-1 tvg-name="49- RADIO CORAZON" group-title="Radios" tvg-logo="",Radio Corazón
+#EXTINF:-1 tvg-name="49- RADIO CORAZON" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/HmHnrRp9Ts.jpeg",Radio Corazón
 http://26493.live.streamtheworld.com:80/CORAZON_SC
