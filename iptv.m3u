@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 ,(01)TVN HD
+#EXTINF:-1 ,01- TVN HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/265
-#EXTINF:-1 ,(02)Canal 13 HD
+#EXTINF:-1 ,02- CANAL 13 HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/214
-#EXTINF:-1 ,(03)MEGA HD
+#EXTINF:-1 ,03- MEGA HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/244
-#EXTINF:-1 ,(04)CHV HD
+#EXTINF:-1 ,04- CHV HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/212
-#EXTINF:-1 ,(05)La Red HD
+#EXTINF:-1 ,05- La Red HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/243
-#EXTINF:-1 ,(06)Canal 24 Horas HD
+#EXTINF:-1 ,06- CANAL 24 HORAS HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/215
-#EXTINF:-1 ,(07)CNN Chile HD
+#EXTINF:-1 ,07- CNN CHILE HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/213
-#EXTINF:-1 ,(08)STAR CHANNEL HD
+#EXTINF:-1 ,08- STAR CHANNEL HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/251
-#EXTINF:-1 ,(09)TNT HD
+#EXTINF:-1 ,09- TNT HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/261
-#EXTINF:-1 ,(10)Cinecanal HD
+#EXTINF:-1 ,10 - CINECANAL HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/217
-#EXTINF:-1 ,(11)Cinemax HD
+#EXTINF:-1 ,11- CINEMAX HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/218
-#EXTINF:-1 ,(12) FX HD
+#EXTINF:-1 ,12- FX HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/233
-#EXTINF:-1 ,(13)HBO HD
+#EXTINF:-1 ,13- HBO HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
-#EXTINF:-1 ,(14)HBO Family hd
+#EXTINF:-1 ,14- HBO FAMILY HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
-#EXTINF:-1 ,(15)Paramount HD
+#EXTINF:-1 ,15- PARAMOUNT HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/248
-#EXTINF:-1 ,(16)Sony HD
+#EXTINF:-1 ,16- SONY HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/257
 #EXTINF:-1 ,(17)Space HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/258
