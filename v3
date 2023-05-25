@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="01 TVN HD" group-title="Nacionales" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1497887276142-Imagen.jpg", Tvn
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35296
 
