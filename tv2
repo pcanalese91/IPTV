@@ -128,10 +128,10 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/229
 #EXTINF:-1 tvg-name="43- FOX SPORTS 1 HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1525358679716-Imagen.png",Fox Sports 1
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/236
 
-#EXTINF:-1 tvg-name="44- FOX SPORT 2 HD" group-title="Deportes" tvg-logo="",Fox Sports 2
+#EXTINF:-1 tvg-name="44- FOX SPORT 2 HD" group-title="Deportes" tvg-logo="http://imgfz.com/i/s7g2mne.jpeg",Fox Sports 2
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/232
 
-#EXTINF:-1 tvg-name="45- FOX SPORT 3 HD" group-title="Deportes" tvg-logo="",Fox Sports 3
+#EXTINF:-1 tvg-name="45- FOX SPORT 3 HD" group-title="Deportes" tvg-logo="http://imgfz.com/i/WeOu6D5.jpeg",Fox Sports 3
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/237
 
 #EXTINF:-1 tvg-name="46- TNT SPORTS HD" group-title="Deportes" tvg-logo="https://www2.clarochile.cl/portal/cl/gc/canales/1610972217631-Imagen.png",Tnt Sports
